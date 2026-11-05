@@ -63,4 +63,4 @@ No additional dependencies required! The game runs entirely in the browser using
 
 ## 👨‍💻 Developer
 
-Created by Patrick (Peezy) Nyarukowa (2025)
+Created by Patrick Nyarukowa (2025)
