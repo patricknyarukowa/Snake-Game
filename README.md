@@ -1,4 +1,4 @@
-# Snake - By Peezy
+# Snake - By Patrick Nyarukowa
 
 This is modern implementation of the classic Snake game using HTML5 Canvas and JavaScript. Features a moving apple, particle effects, and dynamic background colors.
 
